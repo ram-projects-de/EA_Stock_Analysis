@@ -38,18 +38,19 @@ How to Run
 
 Clone the repository:
 
-git clone https://github.com/ram-projects-de/EA_Stock_Analysis.git
-cd EA_Stock_Analysis
+```git clone https://github.com/ram-projects-de/EA_Stock_Analysis.git```
+
+```cd EA_Stock_Analysis```
 
 
 Install the required dependencies:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 
 Open the Jupyter Notebook:
 
-jupyter notebook EA_Technical_Analysis.ipynb
+```jupyter notebook EA_Technical_Analysis.ipynb```
 
 
 Explore the Excel file EA_Ratio_Analysis.xlsx for ratio-based analysis.
